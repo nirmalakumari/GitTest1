@@ -6,6 +6,7 @@ public class A {
 		// TODO Auto-generated method stub
 		System.out.println("A class");
 		System.out.println("Branch added");
+		System.out.println("Getting branch");
 	}
 
 }
